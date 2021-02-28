@@ -13,6 +13,7 @@ As someone who suffers from a mental illness, this has always been a topic at th
 
 # Sources
 https://www.kaggle.com/szamil/who-suicide-statistics
+  
   Basic aggregate of suicide numbers covering 1979-2016, by country, year, age groups and sex made by using the WHO Mortality Database online tool.
   
  
